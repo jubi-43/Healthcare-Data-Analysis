@@ -20,4 +20,5 @@ Uncovered Costs by Payer and Reason Code
 Procedure Cost Trends and Diagnosis Correlation
 Geographical Analysis of Encounters by Organization and Cost
 
-https://github.com/jubi-43/Healthcare-Data-Analysis/blob/main/Healthcare%20Dashboard%20Template.png
+https://raw.githubusercontent.com/jubi-43/Healthcare-Data-Analysis/main/Healthcare%20Dashboard%20Template.png
+
